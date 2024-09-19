@@ -1,6 +1,6 @@
 <div align="center">
   <h1>  NeuroMind Labs </a></h1>
-  <img src="assets/app_logo.jpeg" alt="App Logo Image" width="250">
+  <img src="2024-01-14 18.12.10.jpg" alt="App Logo Image" width="250">
 </div>
 Welcome to NeuroMind Labs, where we harness cutting-edge Generative AI to drive business growth, unlock new opportunities, and optimize decision-making for measurable results. Our mission is to empower businesses with innovative AI solutions that transform their operations and maximize potential.
 
