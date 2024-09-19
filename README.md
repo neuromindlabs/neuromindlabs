@@ -27,5 +27,4 @@ At NeuroMind Labs, we focus on:
 
 ## 🌐 Connect with Us
 - [Instagram](https://www.instagram.com/neuromindlabs/)
-- [LinkedIn](https://www.linkedin.com/company/neuromind-labs/posts/?feedView=all)
 - [Email ID](labsneuromind@gmail.com)
